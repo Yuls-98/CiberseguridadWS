@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/CiberseguridadWS/static/css/main.aea46eab.chunk.css",
+    "main.js": "/CiberseguridadWS/static/js/main.6f5ae817.chunk.js",
+    "main.js.map": "/CiberseguridadWS/static/js/main.6f5ae817.chunk.js.map",
+    "runtime-main.js": "/CiberseguridadWS/static/js/runtime-main.fe712683.js",
+    "runtime-main.js.map": "/CiberseguridadWS/static/js/runtime-main.fe712683.js.map",
+    "static/css/2.a7006cc7.chunk.css": "/CiberseguridadWS/static/css/2.a7006cc7.chunk.css",
+    "static/js/2.9b025199.chunk.js": "/CiberseguridadWS/static/js/2.9b025199.chunk.js",
+    "static/js/2.9b025199.chunk.js.map": "/CiberseguridadWS/static/js/2.9b025199.chunk.js.map",
+    "static/js/3.84496fa1.chunk.js": "/CiberseguridadWS/static/js/3.84496fa1.chunk.js",
+    "static/js/3.84496fa1.chunk.js.map": "/CiberseguridadWS/static/js/3.84496fa1.chunk.js.map",
+    "index.html": "/CiberseguridadWS/index.html",
+    "static/css/2.a7006cc7.chunk.css.map": "/CiberseguridadWS/static/css/2.a7006cc7.chunk.css.map",
+    "static/css/main.aea46eab.chunk.css.map": "/CiberseguridadWS/static/css/main.aea46eab.chunk.css.map",
+    "static/js/2.9b025199.chunk.js.LICENSE.txt": "/CiberseguridadWS/static/js/2.9b025199.chunk.js.LICENSE.txt",
+    "static/media/ContresniasSeguras.f1275da4.jpeg": "/CiberseguridadWS/static/media/ContresniasSeguras.f1275da4.jpeg",
+    "static/media/ErroresEnContrasenias.3b434b49.jpeg": "/CiberseguridadWS/static/media/ErroresEnContrasenias.3b434b49.jpeg",
+    "static/media/Recomendaciones.668ae61c.jpeg": "/CiberseguridadWS/static/media/Recomendaciones.668ae61c.jpeg",
+    "static/media/App.css": "/CiberseguridadWS/static/media/fondo.97822da6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe712683.js",
+    "static/css/2.a7006cc7.chunk.css",
+    "static/js/2.9b025199.chunk.js",
+    "static/css/main.aea46eab.chunk.css",
+    "static/js/main.6f5ae817.chunk.js"
+  ]
+}
