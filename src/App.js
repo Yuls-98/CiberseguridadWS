@@ -8,9 +8,9 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 import Container from './components/Container/Container';
 import Button from './components/Button/Button';
-import infografia1 from './ContresniasSeguras.jpeg';
-import infografia2 from './ErroresEnContrasenias.jpeg';
-import infografia3 from './Recomendaciones.jpeg';
+import infografia1 from './MejoresContrasenias.png';
+import infografia2 from './ErroresEnContrasenias.png';
+import infografia3 from './Recomendaciones.png';
 import Viewer from 'react-viewer';
 
 
